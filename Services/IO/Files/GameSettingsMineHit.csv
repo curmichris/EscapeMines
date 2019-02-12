@@ -1,0 +1,7 @@
+4,5,,,,,, -Board,
+2,2,,,,,, -Mine,
+2,3,,,,,, -Mine,
+2,4,,,,,, -Mine,
+3,4,,,,,, -Exit,
+0,0,N,,,,, -StartingPos,
+Turn,Move,Move,Turn,Move,Move,Turn,Move,Move,Move,Move
